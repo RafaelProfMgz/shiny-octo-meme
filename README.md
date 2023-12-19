@@ -11,9 +11,9 @@ Este programa em C realiza conversões entre bases numéricas, permitindo conver
 
 ## Uso
 
-1. Clone o repositório: `git clone https://github.com/seu_usuario/nome_do_repositorio.git`
-2. Compile o código-fonte usando um compilador C, por exemplo: `gcc arquivo_fonte.c -o executavel`
-3. Execute o programa: `./executavel`
+1. Clone o repositório:
+2. Compile o código-fonte usando um compilador C, por exemplo:
+3. Execute o programa: 
 
 ## Como Usar
 
